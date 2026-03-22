@@ -149,6 +149,11 @@
               "packager": "WCH",
               "name": "wchisp",
               "version": "0.2.3"
+			},
+			{
+				"packager": "WCH",
+				"name": "beforeinstall",
+				"version": "1.0.0"
 			}
           ]
         }		
@@ -208,6 +213,34 @@
               "checksum": "SHA-256:100DC6A75E302D5E3FF7548FE64351AA545353982BA22C19D43555F3A748BE0E",
               "size": "1995618"
             }			
+          ]
+        },
+        {
+          "name": "beforeinstall",
+          "version": "1.0.0",
+          "systems":
+          [
+            {
+              "host": "x86_64-linux-gnu",
+              "url": "https://codeload.github.com/TianpeiLee/wch_beforeinstall_linux/tar.gz/refs/tags/1.0.0",
+              "archiveFileName": "wch_beforeinstall_linux-1.0.0.tar.gz",
+              "checksum": "SHA-256:17EF3A94BC46B9EB9AB1FDECC48FCD3880EEB8FCC36E6648626320F0BF2864DC",
+              "size": "507269"
+            },
+			{
+				"host": "i686-mingw32",
+				"url": "https://github.com/DeqingSun/arduino_core_ch32/releases/download/initBinStorage/wch_beforeinstall_empty.tar.gz",
+				"archiveFileName": "wch_beforeinstall_empty.tar.gz",
+				"checksum": "SHA-256:87f2e600b449220e88b20c5c867eb879b4acad177824fab65a9b3713d53246fd",
+				"size": "186"
+			},
+			{
+				"host": "x86_64-apple-darwin",
+				"url": "https://github.com/DeqingSun/arduino_core_ch32/releases/download/initBinStorage/wch_beforeinstall_empty.tar.gz",
+				"archiveFileName": "wch_beforeinstall_empty.tar.gz",
+				"checksum": "SHA-256:87f2e600b449220e88b20c5c867eb879b4acad177824fab65a9b3713d53246fd",
+				"size": "186"
+			}				
           ]
         },
         {
