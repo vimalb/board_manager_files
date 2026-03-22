@@ -144,7 +144,12 @@
               "packager": "WCH",
               "name": "openocd",
               "version": "1.0.0"
-            }
+            },
+			{
+              "packager": "WCH",
+              "name": "wchisp",
+              "version": "0.2.3"
+			}
           ]
         }		
       ],
