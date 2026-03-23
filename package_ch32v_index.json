@@ -200,8 +200,8 @@
           "category": "Contributed",
           "url": "https://codeload.github.com/vimalb/arduino_core_ch32/zip/refs/tags/1.0.5",
           "archiveFileName": "arduino_core_ch32-1.0.5.zip",
-          "checksum": "SHA-256:C1F36809A55C4AB53A8C222CE0EBEFED6A3517E57C1CBD915B31EB6AEB034E83",
-          "size": "1434025",
+          "checksum": "SHA-256:BF4558856B13C233100ED6C9FF83011FB3B366BB16C391BE930B402C33FCCF3D",
+          "size": "1376149",
           "boards": [
             {
               "name": "CH32X035 EVT Board"
